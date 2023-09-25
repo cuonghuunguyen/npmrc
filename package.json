@@ -1,5 +1,5 @@
 {
-  "name": "npmrc",
+  "name": "npmrc2",
   "version": "1.1.1",
   "description": "Switch between different .npmrc files with ease and grace",
   "preferGlobal": true,
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/deoxxa/npmrc.git"
+    "url": "git@github.com:cuonghuunguyen/npmrc.git"
   },
   "keywords": [
     "npmrc",
